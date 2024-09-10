@@ -1,4 +1,3 @@
-
 # Fluxograma de Arquitetura Local com Indicação de Falhas
 
 Este projeto apresenta um fluxograma detalhado da arquitetura local para um sistema de processamento de dados. O fluxograma inclui etapas principais, subetapas e indicações de falhas em cada etapa do processo.
@@ -48,3 +47,5 @@ Para executar o código e gerar o fluxograma, você precisa ter:
 
 Para instalar as dependências necessárias, execute o seguinte comando:
 
+```bash
+pip install graphviz ipython

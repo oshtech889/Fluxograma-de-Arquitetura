@@ -48,30 +48,3 @@ Para executar o código e gerar o fluxograma, você precisa ter:
 
 Para instalar as dependências necessárias, execute o seguinte comando:
 
-```bash
-pip install graphviz ipython
-Certifique-se de que o Graphviz está corretamente instalado e configurado no seu sistema. Instruções para instalação do Graphviz podem ser encontradas aqui.
-
-Uso
-Execute o script Python: Execute o código Python fornecido para gerar o fluxograma.
-
-Visualize o Fluxograma: Após executar o script, o fluxograma gerado será salvo como um arquivo PNG na pasta do projeto. O fluxograma também será exibido diretamente no Jupyter Notebook.
-
-Exemplo de Saída
-
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
-
-Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Se tiver alguma dúvida ou precisar de mais informações, não hesite em entrar em contato.
-
-markdown
-Copiar código
-
-### Instruções:
-
-1. **Crie um arquivo chamado `README.md`** na raiz do seu projeto.
-2. **Copie e cole** o conteúdo acima no arquivo `README.md`.
-3. **Adapte as seções conforme necessário** para refletir as especificidades do seu projeto.

@@ -35,6 +35,12 @@ Cada etapa principal é subdividida em subetapas, e foram adicionados nós de fa
 
 Cada etapa principal é conectada a um nó de falha correspondente, e todas as falhas são dirigidas para ações corretivas para tratamento dos erros.
 
+## Fluxograma
+
+Aqui está o fluxograma da arquitetura local com indicação de falhas:
+
+![Fluxograma de Arquitetura Local](https://github.com/oshtech889/Fluxograma-de-Arquitetura/blob/main/download.png)
+
 ## Requisitos
 
 Para executar o código e gerar o fluxograma, você precisa ter:
